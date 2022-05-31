@@ -1,4 +1,7 @@
-# VMware vSphere 7 with Kubernetes
+# VMware vSphere 7 with Kubernetes (HT POC) 
+
+![image](https://user-images.githubusercontent.com/22165556/171158341-2fbe6c22-e9d9-4b4b-8143-d96591833a57.png)
+
 
 ## Proof of Concept (PoC) Test Plan
 
