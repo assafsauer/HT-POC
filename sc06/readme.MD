@@ -24,7 +24,7 @@ The test case procedure demonstrates enabling cluster and packages from TMC
 
 
 
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/22165556/171160215-ab53f352-c167-49f6-b052-06c6aab8ae5e.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/22165556/171160215-ab53f352-c167-49f6-b052-06c6aab8ae5e.png">
 
 
 
