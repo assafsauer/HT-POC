@@ -16,6 +16,11 @@ The goal is promoting Customer confidence in the vSphere 7 with Kubernetes produ
 
 RQ01–01| vSphere 7 with Kubernetes shall support deploying Kubernetes clusters within at least one (1) release of the current GKE GA release | OB01 | [SC01-TC01](sc01/sc01-tc01.md), [SC01-TC04](sc01/sc01-tc04.md)
 
+RQ01–01| vSphere 7 with Kubernetes shall support deploying Kubernetes clusters within at least one (1) release of the current GKE GA release | OB01 | 
+(sc02/sc02-tc03.md) 
+
+
+
 ID | Objective |
 :-- | :-- |
 ![image](https://user-images.githubusercontent.com/22165556/171142182-58339dec-891a-4241-a457-b5ee8c7b5ed6.png) automation and simplicity of deploying and operationalizing Kubernetes clusters
