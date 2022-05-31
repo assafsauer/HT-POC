@@ -2,17 +2,6 @@
 
 ## Proof of Concept (PoC) Test Plan
 
-> ***The [sharing guide](Sharing.md) guide is required reading for anyone who intends to use the assets in this repository***
-> ***The assets in this repository `CANNOT` be shared with customers in any other way***
-
-
-## About this Guide
-
-[vSphere 7 with Kubernetes](https://www.vmware.com/products/vsphere/projectpacific.html) empowers IT, operators and developers, to accelerate innovation by converging containers and virtual machines (VM) into VMware’s vSphere server virtualization platform with native Kubernetes. VMware has leveraged Kubernetes to rearchitect vSphere and extend its capabilities to all modern and traditional applications.  The vSphere 7 with Kubernetes PoC Test Plan details the approach and procedures for testing a vSphere 7 with Kubernetes PoC and evaluating the results in comparison with the Customer’s success criteria.
-
-## Intended Audience
-
-This guide is for cloud architects, engineers, administrators, and developers whose organization has an interest in integrating and evaluating vSphere 7 with Kubernetes with their VMware vSphere cloud infrastructure and management utilities.
 
 ## vSphere 7 with Kubernetes PoC Test & Evaluation Overview
 
@@ -20,15 +9,16 @@ This guide is for cloud architects, engineers, administrators, and developers wh
 
 The vSphere 7 with Kubernetes PoC test and evaluation process focuses on demonstrating functional operation, capabilities, and features of the vSphere 7 with Kubernetes platform and Tanzu Kubernetes Clusters (TKC) in a developmental environment.
 
-**IMPORTANT** - This pre-sales offering does not consider all best practices and recommendations for production or extended pilot use.  VMware strongly encourages Customers to thoroughly review all publicly available product documentation and engage with the Professional Services Organization and Partners before going forward with any production design decisions. The PoC evaluation system is not the appropriate platform for intensive and lengthy performance testing and evaluation.
-
 ### Goals and Objectives
 
 The goal is promoting Customer confidence in the vSphere 7 with Kubernetes product through an inclusive test approach and procedures worthy for judging the platform’s operational effectiveness and suitability. The following table lists the vSphere 7 with Kubernetes PoC test process' objectives:
 
+
+RQ01–01| vSphere 7 with Kubernetes shall support deploying Kubernetes clusters within at least one (1) release of the current GKE GA release | OB01 | [SC01-TC01](sc01/sc01-tc01.md), [SC01-TC04](sc01/sc01-tc04.md)
+
 ID | Objective |
 :-- | :-- |
-OB01|Prove the automation and simplicity of deploying and operationalizing Kubernetes clusters
+![image](https://user-images.githubusercontent.com/22165556/171142182-58339dec-891a-4241-a457-b5ee8c7b5ed6.png) automation and simplicity of deploying and operationalizing Kubernetes clusters
 OB02|Reveal the advanced, on-demand networking and security capabilities that vSphere 7 with Kubernetes and NSX-T enable through the Kubernetes Container Network Interface (CNI) plug-in
 OB03|Validate the support for stateful applications and the multitude of storage options that vSphere 7 with Kubernetes enables through the vSphere Cloud Native Storage (CNS) – Container Storage Interface (CSI)
 OB04|Show the level of monitoring, alerting, and visibility available through integrations with VMware vRealize and Wavefront products and other Open Source Software (OSS) alternatives
