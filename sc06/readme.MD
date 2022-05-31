@@ -16,7 +16,7 @@ The test case procedure demonstrates enabling cluster and packages from TMC
  
 
 
-<img width="1530" alt="image" src="https://user-images.githubusercontent.com/22165556/171160041-a5ea094b-635a-42ea-9224-bad9e70e2a00.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/22165556/171160041-a5ea094b-635a-42ea-9224-bad9e70e2a00.png">
 
 
 
@@ -24,7 +24,7 @@ The test case procedure demonstrates enabling cluster and packages from TMC
 
 
 
-<img width="1518" alt="image" src="https://user-images.githubusercontent.com/22165556/171160215-ab53f352-c167-49f6-b052-06c6aab8ae5e.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/22165556/171160215-ab53f352-c167-49f6-b052-06c6aab8ae5e.png">
 
 
 
@@ -32,7 +32,7 @@ The test case procedure demonstrates enabling cluster and packages from TMC
 
 
 
-<img width="1538" alt="image" src="https://user-images.githubusercontent.com/22165556/171160313-af7649c5-f0f6-4bd3-9bd6-c0447677bcba.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/22165556/171160313-af7649c5-f0f6-4bd3-9bd6-c0447677bcba.png">
 
 
 
