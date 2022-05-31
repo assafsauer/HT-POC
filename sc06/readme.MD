@@ -8,7 +8,7 @@ The test case procedure demonstrates enabling cluster and packages from TMC
    
    
  
-<img width="1455" alt="image" src="https://user-images.githubusercontent.com/22165556/171159789-ee6b9991-9f88-4fe6-bdde-854535ca105d.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/22165556/171159789-ee6b9991-9f88-4fe6-bdde-854535ca105d.png">
 
 
 
